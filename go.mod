@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/pkg/errors v0.9.1
-	go.k6.io/k6 v0.45.1
+	go.k6.io/k6 v0.47.0
 )
 
 require (
